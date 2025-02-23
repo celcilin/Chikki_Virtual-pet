@@ -122,7 +122,7 @@ Chikki has potential applications in various fields:
 
 ## 📜 Credits
 
-This project is inspired by **ExtraNick's Chatty Desktop Pet**.  
+This project is inspired by [**ExtraNick's Chatty Desktop Pet**](https://github.com/ExtraNick/Chatty_desktop_pet).  
 💖 Special thanks for the foundational work on desktop AI companions!
 
 ---
